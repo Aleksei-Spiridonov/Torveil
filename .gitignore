@@ -1,0 +1,12 @@
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+.idea/
+.vscode/
+
+# Large raw captures — keep only the exported files referenced by the page
+media/raw/
+*.mp4
+*.mov
+*.mkv
